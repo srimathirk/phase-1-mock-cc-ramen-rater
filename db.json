@@ -5,8 +5,8 @@
       "name": "Shoyu Ramen",
       "restaurant": "Nonono",
       "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
+      "rating": "6",
+      "comment": "BLand taste"
     },
     {
       "id": 2,
@@ -63,6 +63,14 @@
       "rating": "8",
       "new-comment": "spicyyum",
       "id": 8
+    },
+    {
+      "name": "blackBean noodles",
+      "restaurant": "jeju",
+      "image": "https://christieathome.com/wp-content/uploads/2020/03/Jajangmyeon-6.jpg",
+      "rating": "6",
+      "new-comment": "bland",
+      "id": 9
     }
   ]
 }

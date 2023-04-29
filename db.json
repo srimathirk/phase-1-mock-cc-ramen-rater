@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "maggie",
+      "restaurant": "chinese",
+      "image": "https://www.secondrecipe.com/wp-content/uploads/2020/04/vegetable-maggi-noodles.jpg",
+      "rating": "9",
+      "new-comment": "yummy yummy",
+      "id": 6
+    },
+    {
+      "name": "maggie",
+      "restaurant": "chinese",
+      "image": "https://www.secondrecipe.com/wp-content/uploads/2020/04/vegetable-maggi-noodles.jpg",
+      "rating": "9",
+      "new-comment": "yummy yummy",
+      "id": 7
+    },
+    {
+      "name": "KimchiNoodles",
+      "restaurant": "korean",
+      "image": "https://fullofplants.com/wp-content/uploads/2022/06/vegan-kimchi-noodles-korean-inspired-bibim-guksu-20.jpg",
+      "rating": "8",
+      "new-comment": "spicyyum",
+      "id": 8
     }
   ]
 }
